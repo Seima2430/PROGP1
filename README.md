@@ -10,8 +10,8 @@ The RaceDay System is a comprehensive web-based platform designed to streamline 
 
 ## Repository Structure (`/docs`)
 The `/docs` folder contains all essential planning and database artifacts:
-* `ERD_RaceDay.png` - Entity Relationship Diagram representing the complete data model.
-* `API_Endpoint_Plan.md` - Complete specification table of all RESTful API endpoints.
+* `ERD_RaceDay.png` - Entity Relationship Diagram representing the complete data model.[Event_Management_System_ERD.pdf](https://github.com/user-attachments/files/31847438/Event_Management_System_ERD.pdf)
+* `API_Endpoint_Plan.md` - Complete specification table of all RESTful API endpoints.[API Endpoint Plan Table.docx](https://github.com/user-attachments/files/31847443/API.Endpoint.Plan.Table.docx)
 * `RaceDay_Schema_Seed.sql` - Fully executable SQL Server database script with schema creation and seed data.
 
 ## CI/CD Pipeline & Build Status
